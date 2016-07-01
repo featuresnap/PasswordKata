@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 
-namespace PasswordSystemTests
+namespace PasswordKata.UnitTests
 {
     [TestFixture]
     public class PasswordVerifierTests

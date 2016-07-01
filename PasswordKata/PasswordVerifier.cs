@@ -1,4 +1,4 @@
-﻿namespace PasswordSystem
+﻿namespace PasswordKata
 {
     public class PasswordVerifier
     {
